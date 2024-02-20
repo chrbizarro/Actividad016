@@ -1,0 +1,50 @@
+{
+    "videojuego": {
+      "identificador": "RPB001",
+      "nombre": "Roleplay",
+      "fecha_creacion": "2024-02-20",
+      "nota": 8,
+      "programadores": [
+        {
+          "identificador": "p001",
+          "nombre": "Christian",
+          "apellidos": "Awakanda",
+          "dni": "12345678A",
+          "fecha_nacimiento": "2004-01-01",
+          "direccion": {
+            "tipo_via": "Lelo",
+            "nombre_via": "Yuu",
+            "codigo_postal": "12345",
+            "pais": "Marruecos"
+          }
+        },
+        {
+          "identificador": "p002",
+          "nombre": "Carlos",
+          "apellidos": "Silo",
+          "dni": "87654321B",
+          "fecha_nacimiento": "1995-05-05",
+          "direccion": {
+            "tipo_via": "Leso",
+            "nombre_via": "Mesa",
+            "codigo_postal": "54321",
+            "pais": "Argentina"
+          }
+        }
+      ],
+      "compania": {
+        "identificador": "comp001",
+        "nombre": "RenacidosRP",
+        "nif": "12345678X",
+        "direccion": {
+          "tipo_via": "Melocuton",
+          "nombre_via": "Renop",
+          "codigo_postal": "54321",
+          "pais": "España"
+        }
+      },
+      "pagina_web": {
+        "html": "<h1>Bienvenido</h1><h2 style='color:red;text-align:center;'>Roleplayer</h2><img src='ruta_imagen.jpg' alt='https://media.discordapp.net/attachments/1187352931557707826/1202392097559158867/logoserver.png?ex=65dfbee7&is=65cd49e7&hm=9fbfd6176784803204f56703633c7d4f7a8914e6c2c0201c9e9575b215a64763&=&format=webp&quality=lossless&width=473&height=473'>"
+      }
+    }
+  }
